@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-12T11:11:56.518Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XiYNRo52Gv8y55OOsza7" version="21.2.9" type="github" pages="3">
+<mxfile modified="2023-05-12T11:12:37.375Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Zma_BWwsJZ1yxMJH2yIv" version="21.2.9" type="github" pages="3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -468,8 +468,8 @@
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.078;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433" y="151.31" as="sourcePoint" />
-            <mxPoint x="711.008" y="152.00400000000002" as="targetPoint" />
+            <mxPoint x="445" y="150" as="sourcePoint" />
+            <mxPoint x="716.008" y="152.00400000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-3" value="HTTP for management" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#004C99;" vertex="1" connectable="0" parent="UAdGFKXaKV5n_ljDEVXI-2">
@@ -479,8 +479,8 @@
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.078;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433" y="165.31" as="sourcePoint" />
-            <mxPoint x="711" y="166" as="targetPoint" />
+            <mxPoint x="445" y="166" as="sourcePoint" />
+            <mxPoint x="716" y="166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-5" value="WebSockets for the game itself" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#004C99;" vertex="1" connectable="0" parent="UAdGFKXaKV5n_ljDEVXI-4">
@@ -511,6 +511,9 @@
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-15" value="- every $73 instance has only 1.75GB RAM and 1 core, so scaling out may be expensive&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;- you pay for Azure App Service even when the website is down&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="265" y="534" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFREV7M6Xj1rXXpsd4B-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="28" width="200" height="282" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
