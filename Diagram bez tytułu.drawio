@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-12T11:10:47.709Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VUpAmIeFB3F92LzVR4ag" version="21.2.9" type="github" pages="3">
+<mxfile modified="2023-05-12T11:11:56.518Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XiYNRo52Gv8y55OOsza7" version="21.2.9" type="github" pages="3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="243" y="341" width="607" height="265" as="geometry" />
+          <mxGeometry x="243" y="341" width="607" height="249" as="geometry" />
         </mxCell>
         <mxCell id="kUSSpaPBGqidjH9PZ3Rn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="670" y="21" width="590" height="299" as="geometry" />
@@ -498,19 +498,19 @@
           <mxGeometry x="243" y="343" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-9" value="- Azure Table Storage: $4.5 / 100 GB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Azure App Service: $73 for production per instance (up to 10 load-balanced instances)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="265" y="365" width="560" height="40" as="geometry" />
+          <mxGeometry x="265" y="362" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-10" value="Pros" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="254" y="407" width="50" height="30" as="geometry" />
+          <mxGeometry x="254" y="400" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-11" value="- easy to set up&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- has a free tier for deployment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- automatically scales out&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- load balancer is already in place&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- easy to deploy&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- can run multiple websites without additional costs" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="265" y="427" width="340" height="100" as="geometry" />
+          <mxGeometry x="265" y="419" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-14" value="Cons" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="254" y="522" width="60" height="30" as="geometry" />
+          <mxGeometry x="254" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UAdGFKXaKV5n_ljDEVXI-15" value="- every $73 instance has only 1.75GB RAM and 1 core, so scaling out may be expensive&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;- you pay for Azure App Service even when the website is down&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="265" y="550" width="560" height="40" as="geometry" />
+          <mxGeometry x="265" y="534" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -582,16 +582,16 @@
           <mxGeometry x="272" y="441" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQ2GAPHTC6Bf62QcF2tr-17" value="Pros" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="261" y="493" width="50" height="30" as="geometry" />
+          <mxGeometry x="261" y="495" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQ2GAPHTC6Bf62QcF2tr-18" value="- cheap - here the Virtual Machine with 2GB RAM and 1 core is 4x cheaper than in App Service&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- you don&#39;t pay for Virtual Machines if you turn them off&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- testing load balancing is cheaper and easier&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- you can install additional features on Virtual Machines if needed" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="272" y="515" width="600" height="70" as="geometry" />
+          <mxGeometry x="272" y="514" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MQ2GAPHTC6Bf62QcF2tr-19" value="Cons" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="261" y="583" width="60" height="30" as="geometry" />
+          <mxGeometry x="261" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQ2GAPHTC6Bf62QcF2tr-20" value="- hard to set up and configure&lt;br&gt;- scaling out needs creating new Virtual Machine, installations, application deployment &lt;br&gt;&amp;nbsp; and gateway configuration&lt;br&gt;- deployment of a new version is tedious and manual&lt;br&gt;- not sure if we don&#39;t need additional Azure SignalR Service for $50 - have to check that out" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="272" y="599" width="580" height="90" as="geometry" />
+          <mxGeometry x="272" y="603" width="580" height="90" as="geometry" />
         </mxCell>
         <mxCell id="umhc856_FRIcYrjumMg_-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="640" y="20" width="530" height="360" as="geometry" />
